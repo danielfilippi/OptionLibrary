@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WL0XpnisZWINCwbkl+e1ZJzw1QrKWWVrnyiDWeo/VCdT/t4w1A5GeCq4ShFCyQM/rO4xaz+VFOZ0T23CTgaDVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielFilippi\\source\\repos\\OptionLibrary\\OptionLibrary\\OptionLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielFilippi\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

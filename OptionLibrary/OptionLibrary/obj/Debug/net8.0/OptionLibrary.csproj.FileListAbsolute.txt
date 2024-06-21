@@ -1,0 +1,17 @@
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\bin\Debug\net8.0\OptionLibrary.exe
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\bin\Debug\net8.0\OptionLibrary.deps.json
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\bin\Debug\net8.0\OptionLibrary.runtimeconfig.json
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\bin\Debug\net8.0\OptionLibrary.dll
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\bin\Debug\net8.0\OptionLibrary.pdb
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.AssemblyInfoInputs.cache
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.AssemblyInfo.cs
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.dll
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\refint\OptionLibrary.dll
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.pdb
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.genruntimeconfig.cache
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\ref\OptionLibrary.dll
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLibrary.csproj.AssemblyReference.cache
+C:\Users\DanielFilippi\source\repos\OptionLibrary\OptionLibrary\obj\Debug\net8.0\OptionLi.FEBBE08F.Up2Date
